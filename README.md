@@ -1,7 +1,5 @@
-# algoritmo-e-logica-de-programacao
-
-# Curso ministrado pelo Prof: Noélio Alves 
 # "Do VisualG às principais linguagens do mercado: C, C++, Python, C# e Java"
+> Curso ministrado pelo Prof: Noélio Alves 
 
 # Foi utilizada a ferramenta VisualG
 
