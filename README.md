@@ -50,4 +50,16 @@ Area do terreno = 300.00
 
 Preco do terreno = 60000.00
 
+- Exemplo 2:
+
+Digite a largura do terreno: 12.0
+
+Digite o comprimento do terrano: 20.0
+
+Digite o valor do metro quadrado: 150.00
+
+Area do terreno = 240.00
+
+Preco do terreno = 36000.00
+
 
