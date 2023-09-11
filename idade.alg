@@ -1,5 +1,12 @@
 Algoritmo "idade"
+//Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os nomes e a idade m√©dia entre essas pessoas, com uma casa decimal, conforme exemplo.
 
+//Exemplo:
+// - Dados da primeira pessoa:
+//Nome: Maria Silva Idade: 19
+// - Dados da segunda pessoa:
+//Nome: Joao Melo Idade 20
+//A idade m√©dia de Maria Silva e Joao Melo √© de 19.5 anos
 
 Var
 
@@ -24,6 +31,6 @@ Inicio
 
       media <- (idade1 + idade2)/2
 
-      escreval ("A idade mÈdia de "nome1, " e " nome2, " È de " mÈdia, " anos ")
+      escreval ("A idade mÔøΩdia de "nome1, " e " nome2, " ÔøΩ de " mÔøΩdia, " anos ")
 
 Fimalgoritmo
