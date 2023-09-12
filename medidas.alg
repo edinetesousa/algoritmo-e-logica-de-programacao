@@ -1,11 +1,9 @@
 Algoritmo "medidas"
-
-//Fazer um programa para ler três medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados com quatro casas decimais):
-//a) a área do quadrado que tem lado A
-//b) a área do triângulo retângulo que base A e altura B
-//c) a área do trapézio que tem bases A e B, e altura C
-
-// Data atual  : 6/9/2023
+//Fazer um programa para ler tres medidas A, B e C. Em seguida, calcular e mostrar (imprimir os dados com quatro casas decimais):
+//a) a area do quadrado que tem lado A
+//b) a area do triangulo retangulo que base A e altura B
+//c) a area do trapazio que tem bases A e B, e altura C
+// Data atual  : 06/09/2023
 
 Var
 
@@ -31,5 +29,4 @@ Inicio
    escreval("Triangulo= ", areaTriangulo:8:4)
    escreval("Trapezio= ", areaTrapezio:8:4)
 
-   
 Fimalgoritmo
