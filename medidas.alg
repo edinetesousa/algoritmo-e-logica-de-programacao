@@ -21,9 +21,9 @@ Inicio
    leia(C)
 
 
-   areaQuadrado <- A*A
-   areaTriangulo <- (A*B)/2
-   areaTrapezio <- (A+B)/2*C
+   areaQuadrado <- Exp(A,2)      //ou A*A
+   areaTriangulo <- (A*B)/2      //Aqui os parenteses são opcionais
+   areaTrapezio <- (A+B)/2*C      //Aqui os parenteses são obrigatórios
    
    escreval("Quadrado= ", areaQuadrado:8:4)
    escreval("Triangulo= ", areaTriangulo:8:4)

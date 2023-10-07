@@ -33,4 +33,4 @@ Inicio
 
       escreval ("A idade m�dia de "nome1, " e " nome2, " � de " m�dia, " anos ")
 
-Fimalgoritmo
+Fimalgoritmo 
