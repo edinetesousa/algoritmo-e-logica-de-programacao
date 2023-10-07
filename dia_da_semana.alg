@@ -1,17 +1,16 @@
 Algoritmo "dias_da_semana"
-//Digitar o número e imprimir o nome correspondente ao dia da semana
+//Digitar o nï¿½mero e imprimir o nome correspondente ao dia da semana
 //Exemplo: 1=domingo, 2=segunda...
-//Utilizar a variável "escolha"
+//Utilizar a variï¿½vel "escolha"
 
 Var
 
    x: inteiro
    dia: caractere
 
-
 Inicio
 
-   escreval("Digite um número: ")
+   escreval("Digite um nï¿½mero: ")
    leia(x)
 
    escolha(x)
