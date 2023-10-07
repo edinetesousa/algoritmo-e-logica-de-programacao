@@ -1,12 +1,12 @@
 Algoritmo "baskara"
-//Fazer um programa para ler os três coeficientes de uma
-//equação do segundo grau usando a fórmula de báskara, calcular
-//e mostrar os valores das raizes x1 e x2 da equação com quatro
-//casas decimais, conforme exemplo e se a equação não possuir
+//Fazer um programa para ler os trï¿½s coeficientes de uma
+//equaï¿½ï¿½o do segundo grau usando a fï¿½rmula de bï¿½skara, calcular
+//e mostrar os valores das raizes x1 e x2 da equaï¿½ï¿½o com quatro
+//casas decimais, conforme exemplo e se a equaï¿½ï¿½o nï¿½o possuir
 //raizes, mostrar uma mensagem.
-//Obs: Delta não pode ser negativo  e coeficiente a não pode ser zero
+//Obs: Delta nï¿½o pode ser negativo  e coeficiente a nï¿½o pode ser zero
 //Exemplo1: coeficiente a=1, b=0 e c=-9 (resultado: x1=3.000, x2= -3.000)
-//Exemplo2: coeficiente a=1, b=2 e c=4 (resultado: Esta equação não possuiraizes reais)
+//Exemplo2: coeficiente a=1, b=2 e c=4 (resultado: Esta equaï¿½ï¿½o nï¿½o possuiraizes reais)
 Var
 
    a, b, c, x1, x2, delta:real
@@ -22,8 +22,8 @@ Inicio
       
       delta <-Exp(b,2)-4*a*c
       
-      se (a=0) ou (delta<0)então
-         escreval("Esta equação não possui raizes reais")
+      se (a=0) ou (delta<0)entï¿½o
+         escreval("Esta equaï¿½ï¿½o nï¿½o possui raizes reais")
       senao
          x1 <-(-b + RaizQ(delta))/ (2*a)
          x2 <-(-b - RaizQ(delta))/ (2*a)
