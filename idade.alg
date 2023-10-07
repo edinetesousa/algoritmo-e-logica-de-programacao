@@ -14,7 +14,6 @@ Var
    idade1, idade2: inteiro
    media: real
 
-
 Inicio
 
       escreval("Dados da primeira pessoa: ")
