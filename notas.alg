@@ -1,11 +1,10 @@
 Algoritmo "notas"
-//Somar duas notas, caso a soma, que será nota final,
+//Somar duas notas, caso a soma, que serï¿½ nota final,
 //seja inferior a 60, imprimir a mensagem "REPROVADO"
 
 Var
 
    nota1, nota2, notaFinal: real
-
 
 Inicio
 
