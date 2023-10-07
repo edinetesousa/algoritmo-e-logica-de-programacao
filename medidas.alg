@@ -20,7 +20,6 @@ Inicio
    escreva("Digite a medida C: ")
    leia(C)
 
-
    areaQuadrado <- Exp(A,2)      //ou A*A
    areaTriangulo <- (A*B)/2      //Aqui os parenteses são opcionais
    areaTrapezio <- (A+B)/2*C      //Aqui os parenteses são obrigatórios
